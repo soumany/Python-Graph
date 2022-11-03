@@ -1,11 +1,11 @@
-Country,Safety(10%),Percentage of safty,Popularity(10%),Percentage of popularity
-Australia,100,10%,41,4%
-San Marino,87,9%,47,5%
-Hong Kong,97,10%,41,4%
-Switzerland,99,10%,46,5%
-Macao,93,9%,44,4%
-Malta,92,9%,44,4%
-Luxembourg,100,10%,42,4%
-Bermuda,93,9%,35,4%
-Singapore,100,10%,39,4%
-Spain,95,10%,66,7%
+Country,Safety(10%),Percentage of safty,Popularity(10%),Percentage of popularity,Total Quality of life(100%),Percentage of total
+Australia,100,10%,41,4%,76,76%
+San Marino,87,9%,47,5%,74,74%
+Hong Kong,97,10%,41,4%,74,74%
+Switzerland,99,10%,46,5%,74,74%
+Macao,93,9%,44,4%,73,73%
+Malta,92,9%,44,4%,72,72%
+Luxembourg,100,10%,42,4%,71,71%
+Bermuda,93,9%,35,4%,71,71%
+Singapore,100,10%,39,4%,71,71%
+Spain,95,10%,66,7%,71,71%
