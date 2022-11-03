@@ -1,7 +1,8 @@
+#import numpy as np
 import matplotlib.pyplot as plt
 import pandas as pd
 
-plt.style.use('bmh')
+plt.style.use('fivethirtyeight')
 df = pd.read_csv('Test graph.csv')
 
 #All Variable
